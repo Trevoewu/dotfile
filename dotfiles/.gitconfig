@@ -1,0 +1,12 @@
+[pull]
+	rebase = true
+[https]
+	proxy = https://127.0.0.1:9090
+[user]
+	name = Trevoewu
+	email = littletrevorwu@gmail.com
+[credential]
+	username = Practice
+[safe]
+	directory = /opt/homebrew/Library/Taps/homebrew/homebrew-core
+	directory = /opt/homebrew/Library/Taps/homebrew/homebrew-cask
